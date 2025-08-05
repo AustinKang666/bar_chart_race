@@ -112,4 +112,5 @@ The final results are presented as interactive bar chart race animations:
 * Time is filtered to votes collected before **2024-01-13 17:30:30** to showcase dynamic changes.
 * To change the vote collection cutoff time, adjust the `early_collected` filtering condition in `create_bar_chart_race_plot.py`.
 
-Both animations are interactive, allowing you to play/pause through the timeline to observe ranking shifts.
+> Both animations are interactive, allowing you to play/pause through the timeline to observe ranking shifts.
+
